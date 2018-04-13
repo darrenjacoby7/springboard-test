@@ -1,0 +1,12 @@
+Open up springboard-test
+CMD in the windows explorer
+add files in springboard-test folder
+
+commands: 
+git status (see files in red) 
+git add . (or file names individually)
+git status (see files in green)
+git commit -m "commit message"
+git pull origin master
+git push origin master
+
