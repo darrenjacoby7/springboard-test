@@ -2,6 +2,10 @@ Open up springboard-test
 CMD in the windows explorer
 add files in springboard-test folder
 
+change directory:
+cd\
+cd Users\darre\Desktop\springboard-test
+
 commands: 
 git status (see files in red) 
 git add . (or file names individually)
