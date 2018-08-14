@@ -1,0 +1,17 @@
+# Metrics and Media
+
+Looking at Global Health Metrics and Trends from Department of Health Surveys in parallel with New York Times articles on Global Health topics, and seeing if we can find a relationship between the two.
+
+## Getting Started
+
+Download the two .csv in the folder onto Desktop before running the Jupyter notebook to see results
+
+## Authors
+
+* **Darren Jacoby** 
+
+## Acknowledgments
+
+* Robert Amanfu, Springboard Data Science Mentor
+* DJ Sarkar, countless hours working through coding challenges with me
+* Berkeley DLab: http://dlab.berkeley.edu/blog/scraping-new-york-times-articles-python-tutorial
